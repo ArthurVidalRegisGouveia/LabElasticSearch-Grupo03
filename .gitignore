@@ -3,3 +3,4 @@ lab_versao_teste.ipynb
 data/*
 
 !data/queries_fixadas.txt
+elastic-lab/*
